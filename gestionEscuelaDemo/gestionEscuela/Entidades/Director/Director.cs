@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gestionEscuela.Entidades
+namespace gestionEscuela.Entidades.Director
 {
-    internal class Alumno
+    internal class Director
     {
     }
 }
