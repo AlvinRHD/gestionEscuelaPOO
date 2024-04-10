@@ -1,10 +1,8 @@
 Integrantes:
 
-Alvin Ezequiel Rosales Hernández - U20230560
-Ana Raquel Mejía Flores - U20230815
-Oscar Adonay García Zeledon - U20210160
-
-
+Alvin Ezequiel Rosales Hernández - U20230560 - CRUD ALUMNOS
+Ana Raquel Mejía Flores - U20230815 - CRUD PROFESOR
+Oscar Adonay García Zeledon - U20210160 - CRUD DIRECTOR
 
 
 
