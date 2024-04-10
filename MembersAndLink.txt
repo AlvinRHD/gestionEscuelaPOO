@@ -1,0 +1,12 @@
+Integrantes:
+
+Alvin Ezequiel Rosales Hernández - U20230560
+Ana Raquel Mejía Flores - U20230815
+Oscar Adonay García Zeledon - U20210160
+
+
+
+
+
+Enlace del repo:
+https://github.com/AlvinRHD/gestionEscuelaPOO.git
