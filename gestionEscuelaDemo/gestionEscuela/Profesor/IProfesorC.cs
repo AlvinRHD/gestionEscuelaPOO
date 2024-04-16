@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gestionEscuela.Entidades.Alumno
+namespace gestionEscuela.Profesor
 {
-    internal interface IAlumno
+    internal interface IProfesorC
     {
+        void VerGradosAsignados();
+        void VerAlumnos();
     }
 }

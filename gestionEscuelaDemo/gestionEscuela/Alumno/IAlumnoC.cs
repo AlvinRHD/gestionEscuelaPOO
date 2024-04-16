@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace gestionEscuela.Entidades.Director
+namespace gestionEscuela.Alumno
 {
-    internal interface IDirector
+    public interface IAlumnoC
     {
+        void VerMaterias();
     }
 }
